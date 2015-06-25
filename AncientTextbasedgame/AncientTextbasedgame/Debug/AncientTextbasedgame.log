@@ -1,0 +1,21 @@
+﻿Build started 6/25/2015 12:45:19 PM.
+     1>Project "C:\Users\Colin\documents\visual studio 2013\Projects\AncientTextbasedgame\AncientTextbasedgame\AncientTextbasedgame.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Character.cpp main.cpp
+         main.cpp
+     1>c:\users\colin\documents\visual studio 2013\projects\ancienttextbasedgame\ancienttextbasedgame\main.cpp(23): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\colin\documents\visual studio 2013\projects\ancienttextbasedgame\ancienttextbasedgame\main.cpp(169): warning C4551: function call missing argument list
+     1>c:\users\colin\documents\visual studio 2013\projects\ancienttextbasedgame\ancienttextbasedgame\main.cpp(213): warning C4554: '&' : check operator precedence for possible error; use parentheses to clarify precedence
+     1>c:\users\colin\documents\visual studio 2013\projects\ancienttextbasedgame\ancienttextbasedgame\main.cpp(238): warning C4554: '&' : check operator precedence for possible error; use parentheses to clarify precedence
+     1>c:\users\colin\documents\visual studio 2013\projects\ancienttextbasedgame\ancienttextbasedgame\main.cpp(264): warning C4554: '&' : check operator precedence for possible error; use parentheses to clarify precedence
+         Character.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Colin\documents\visual studio 2013\Projects\AncientTextbasedgame\Debug\AncientTextbasedgame.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Colin\documents\visual studio 2013\Projects\AncientTextbasedgame\Debug\AncientTextbasedgame.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Colin\documents\visual studio 2013\Projects\AncientTextbasedgame\Debug\AncientTextbasedgame.lib" /MACHINE:X86 Debug\Character.obj
+         Debug\main.obj
+         AncientTextbasedgame.vcxproj -> C:\Users\Colin\documents\visual studio 2013\Projects\AncientTextbasedgame\Debug\AncientTextbasedgame.exe
+     1>Done Building Project "C:\Users\Colin\documents\visual studio 2013\Projects\AncientTextbasedgame\AncientTextbasedgame\AncientTextbasedgame.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.31

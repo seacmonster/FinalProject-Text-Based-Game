@@ -1,0 +1,42 @@
+Colin Bondy //I apologize for the Text document I currently do not have access to word.
+
+I would like to pursue making another Text based adventure game.
+In order to do so I would implement a class for the main character
+keeping track of several stats as well as their name and bio.
+I would make a set of functions for random encounters that increase
+player stats (These would randomize the enemy Goblin, orc, etc and
+produce random stats using time) and challenges that occur after every 
+several encounters that would require a certain stat level. This would
+take form as a boulder in the way requiring a 15 strength to move and if 
+they failed they would do leave to another area until another challenge came up. 
+The player then would receive a quest after their stats hit a certain level to 
+fight a boss. If the player finishes the game without dying a text document would be output
+with a player bio that would include kill counts, a pleasant story of retirement and other facts 
+about their character. If the player dies at any point in the game it would print out a similar
+bio and possibly insulting them for being a failure of a hero. 
+
+I anticipate have some difficulty keeping track of the players victories and stats
+and outputting that as a text document.
+
+This game would be similar to my 171 code but I want it to do quite a bit more and 
+do those things differently than in 171 so it is unlikely I would be able to use any of that same code. 
+
+
+
+
+
+
+Project UML Diagram.
+
+Problem:
+    To design a text based game with a story, main character, enemies, and challenges.
+
+Project requirements
+
+Class for Character - stats, name, etc.
+
+Story line in a function or main.
+
+Random encounter function to fight monsters
+
+Random Challenge requiring certain stat
